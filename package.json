@@ -1,0 +1,22 @@
+{
+  "name": "typescript-class-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martingardner/typescript-class-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martingardner/typescript-class-practice/issues"
+  },
+  "homepage": "https://github.com/martingardner/typescript-class-practice#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
