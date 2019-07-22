@@ -9,3 +9,5 @@
 - lesson-initial : initial show and tell of ts commands and theory of why
 - lesson-typeannotations : base examples of typescript
 - lesson-functions : different examples and scenarios for ts with functions
+- lesson-arrays : different array examples
+- lesson-tuples : example of what a tupple in typescript looks like, but very little ever use.
