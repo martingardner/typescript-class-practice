@@ -7,3 +7,5 @@
 # lessons
 
 - lesson-initial : initial show and tell of ts commands and theory of why
+- lesson-typeannotations : base examples of typescript
+- lesson-functions : different examples and scenarios for ts with functions
