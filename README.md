@@ -12,3 +12,4 @@
 - lesson-arrays : different array examples
 - lesson-tuples : example of what a tupple in typescript looks like, but very little ever use.
 - lesson-interface : example of an interface
+- lesson-classes : example of typescript with js classes
