@@ -13,4 +13,7 @@
 - lesson-tuples : example of what a tupple in typescript looks like, but very little ever use.
 - lesson-interface : example of an interface
 - lesson-classes : example of typescript with js classes
-- maps : first of the design classes, makes use of parcel bundler (see package.json) bundler command is npm run parcel-maps
+- maps : first of the design classes,
+  -- makes use of parcel bundler (see package.json)
+  -- bundler command is npm run parcel-maps
+  -- makes use of faker npm
